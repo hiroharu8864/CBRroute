@@ -1,13 +1,13 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1528189552033
+Bnd-LastModified: 1528957636952
 Build-Jdk: 1.8.0_40
 Built-By: htanaka
 Bundle-Blueprint: OSGI-INF/blueprint/blueprint.xml
 Bundle-Description: Empty Camel Blueprint Example
 Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.html
 Bundle-ManifestVersion: 2
-Bundle-Name: Camel Blueprint Quickstart
-Bundle-SymbolicName: com.mycompany.camel-blueprint
+Bundle-Name: Empty Camel Blueprint Example [CBRroute]
+Bundle-SymbolicName: CBRroute
 Bundle-Version: 1.0.0.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
 Import-Package: org.osgi.service.blueprint;version="[1.0.0,2.0.0)"
